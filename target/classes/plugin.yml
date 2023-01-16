@@ -1,0 +1,8 @@
+name: Hangman
+version: 1.0
+main: nl.scoutcraft.hangman.Main
+api-version: 1.18
+description: Hangman game.
+authors: [ n1ouse, Daniel12321, Acixsi ]
+website: https://scoutcraft.nl
+depend: [ EagleServer ]

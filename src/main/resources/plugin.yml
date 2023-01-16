@@ -1,0 +1,13 @@
+name: ${project.name}
+version: ${project.version}
+main: nl.scoutcraft.hangman.Main
+api-version: 1.18
+description: ${project.description}
+authors: [ n1ouse, Daniel12321, Acixsi ]
+website: https://scoutcraft.nl
+depend: [ EagleServer ]
+commands:
+   hangman:
+      description: Manage your hangman game
+      usage: /hangman
+      permission: hangman.admin
