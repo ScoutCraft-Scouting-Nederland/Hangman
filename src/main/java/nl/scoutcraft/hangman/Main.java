@@ -42,7 +42,9 @@ public final class Main extends JavaPlugin implements Listener {
         } catch (InstantiationException e) {
             e.printStackTrace();
         }
+        getCommand("hangman").setExecutor(this);
     }
+        
 
     @Override
     public void onDisable() {

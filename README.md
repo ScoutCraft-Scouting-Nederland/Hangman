@@ -10,16 +10,16 @@ This plugin was part of the [ScoutCraft project](https://github.com/ScoutCraft-S
 * A visual representation of how many guesses are done with a new stage after every guess
 * Efficient and without only one dependency!
 
-![Screenshot of game](https://raw.githubusercontent.com/ScoutCraft-Scouting-Nederland/.github/master/images/hangman.png)
+<img src="https://raw.githubusercontent.com/ScoutCraft-Scouting-Nederland/.github/master/images/hangman.png" alt="screenshot" width="700"/>
 
 ## Installation
 1. Compile the plugin with Maven, or download the latest version from the releases page
-2. Download EagleServer
+2. Download *EagleServer*
 3. Drop the plugins in your plugins folder
-4. Start the server and build your game. Use a bamboo stick to select locations. Use /save letterboard to store a letterboard and /save structure to save a stage.
+4. Start the server and build your game. Use a bamboo stick to select locations. Use */save letterboard* to store a letterboard and */save structure* to save a stage.
 5. Fill the config of EagleServer
 6. Fill the config with words of the same size as your letterboard.
-7. Restart your server, do /hangman build and play!
+7. Restart your server, do */hangman build* and play!
 
 Searching for a full lobby with this game and more? where all settings are set? Take a look into our server-packages!
 
@@ -41,3 +41,4 @@ You are welcome to change this plugin to your liking. Fixes for bugs will be add
 
 ### Contributors
 We thank all people who worked on this plugin, with planning, coding, testing, fixing bugs, etc:
+- @n1ouse
